@@ -27,6 +27,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+
 ![](https://github-readme-stats.vercel.app/api?username=beants&show_icons=true)
 
 #### :bar_chart: Weekly development breakdown
