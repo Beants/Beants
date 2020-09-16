@@ -17,11 +17,15 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=plastic&logo=Flask)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+- ⚙️ I also use and work: 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript) 
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=plastic&logo=Android)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter)
+  ![WeChat Mini Program](https://img.shields.io/badge/-WeChat-7BB32E?style=plastic&logo=WeChat)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-- 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
+
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
