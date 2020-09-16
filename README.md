@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️ and I am a bit 😄 mad 😄 when I code. Connect with me here -
+I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️  and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
 [![Gmail Badge](https://img.shields.io/badge/-beantsxu@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:beantsxu@gmail.com)](mailto:beantsxu@gmail.com)
 
-<img align="right" alt="beants's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=beants&show_icons=true">
 
 - 🏢 I'm currently working at **Altomni Corp**
 - 🚀 I use daily:
@@ -28,4 +27,16 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+![](https://github-readme-stats.vercel.app/api?username=beants&show_icons=true)
 
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   1 hr 50 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.19 % 
+Lean         1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+YAML         1 hr 14 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Bash         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Markdown     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+```
+<!--END_SECTION:waka-->
