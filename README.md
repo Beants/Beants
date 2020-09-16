@@ -4,6 +4,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
 
 [![Gmail Badge](https://img.shields.io/badge/-beantsxu@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:beantsxu@gmail.com)](mailto:beantsxu@gmail.com)
 
+<img align="right" alt="beants's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=beants&show_icons=true">
 
 - 🏢 I'm currently working at **Altomni Corp**
 - 🚀 I use daily:
@@ -24,5 +25,3 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![beants's github stats](https://github-readme-stats.vercel.app/api?username=beants&theme=dark&show_icons=true)](https://github.com/beants)
-[![beants's github stats](https://github-readme-stats.vercel.app/api/pin/?username=beants&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
