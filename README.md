@@ -21,7 +21,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
   ![Android](https://img.shields.io/badge/-Android-3DDC84?style=plastic&logo=Android)
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter)
-  ![WeChat Mini Program](https://img.shields.io/badge/-WeChat-7BB32E?style=plastic&logo=WeChat)
+  ![WeChat Mini Program](https://img.shields.io/badge/-WeChat Mini Program-7BB32E?style=plastic&logo=WeChat)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
