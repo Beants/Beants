@@ -29,10 +29,5 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
 
 ![](https://github-readme-stats.vercel.app/api?username=beants&show_icons=true)
 
-#### :bar_chart: Weekly development breakdown
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
