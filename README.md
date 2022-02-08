@@ -26,10 +26,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beants&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beants&hide=html,JavaScript,CSS&layout=compact" />
 </a>
 
