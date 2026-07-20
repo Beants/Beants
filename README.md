@@ -5,7 +5,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🏍️
 [![Gmail Badge](https://img.shields.io/badge/-beantsxu@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:beantsxu@gmail.com)](mailto:beantsxu@gmail.com)
 
 
-- 🏢 I'm currently working at **Haier Corp**
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
